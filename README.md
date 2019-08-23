@@ -28,57 +28,57 @@
 - http://bit.ly/CCPythonIf6
 
 #### For and While Loops:
-- https://overiq.com/python-101/loops-in-python/
-- https://developers.google.com/edu/python/lists#for-and-in
-- https://developers.google.com/edu/python/lists#while-loop
-- https://www.learnpython.org/en/Loops
-- https://automatetheboringstuff.com/chapter2/#calibre_link-2068
+- http://bit.ly/CCPythonloop1
+- http://bit.ly/CCPythonLoop2
+- http://bit.ly/CCPythonLoop3
+- http://bit.ly/CCPythonLoop4
+- http://bit.ly/CCPythonLoop5
 
 #### Functions:
-- https://overiq.com/python-101/functions-in-python/
-- https://developers.google.com/edu/python/introduction#user-defined-functions
-- https://www.learnpython.org/en/Functions
-- https://automatetheboringstuff.com/chapter3/
-- https://docs.python-guide.org/writing/style/#function-arguments
-- https://docs.python.org/3/tutorial/controlflow.html#defining-functions
+- http://bit.ly/CCPythonFunct1
+- http://bit.ly/CCPythonFunct2
+- http://bit.ly/CCPythonFunct3
+- http://bit.ly/CCPythonFunct4
+- http://bit.ly/CCPythonFunct5
+- http://bit.ly/CCPythonFunct6
 
 #### Lists:
-- https://overiq.com/python-101/lists-in-python/
-- https://developers.google.com/edu/python/lists
-- https://developers.google.com/edu/python/lists#list-methods
-- https://www.learnpython.org/en/Lists
-- https://automatetheboringstuff.com/chapter4/
-- https://docs.python.org/3/tutorial/introduction.html#lists
-- https://docs.python.org/3/tutorial/datastructures.html#more-on-lists
+- http://bit.ly/CCPythonList1
+- http://bit.ly/CCPythonList2
+- http://bit.ly/CCPythonList3
+- http://bit.ly/CCPythonList4
+- http://bit.ly/CCPythonList5
+- http://bit.ly/CCPythonList6
+- http://bit.ly/CCPythonList7
 
 #### Classes/Objects:
-- https://overiq.com/python-101/objects-and-classes-in-python/
-- https://www.learnpython.org/en/Classes_and_Objects
-- https://docs.python.org/3/tutorial/classes.html
+- http://bit.ly/CCPythonclass1
+- http://bit.ly/CCPythonClass2
+- http://bit.ly/CCPythonClass3
 
 #### Dictionary/Tuple/Set:
-- https://overiq.com/python-101/tuples-in-python/
-- https://overiq.com/python-101/sets-in-python/
-- https://overiq.com/python-101/dictionary-in-python/
-- https://developers.google.com/edu/python/sorting#tuples
-- https://developers.google.com/edu/python/dict-files#dict-hash-table
-- https://www.learnpython.org/en/Dictionaries
-- https://www.learnpython.org/en/Sets
-- https://automatetheboringstuff.com/chapter5/
-- https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences
-- https://docs.python.org/3/tutorial/datastructures.html#sets
-- https://docs.python.org/3/tutorial/datastructures.html#dictionaries
+- http://bit.ly/CCPythonDict1
+- http://bit.ly/CCPythonDict2
+- http://bit.ly/CCPythonDict3
+- http://bit.ly/CCPythonDict4
+- http://bit.ly/CCPythonDict5
+- http://bit.ly/CCPythonDict6
+- http://bit.ly/CCPythonDict7
+- http://bit.ly/CCPythonDict8
+- http://bit.ly/2Ns2nMh
+- http://bit.ly/31Ynlq5
+- http://bit.ly/33Rr0b8
 
 ### String Formatting:
-- https://overiq.com/python-101/strings-methods-in-python/
-- https://developers.google.com/edu/python/strings#string-methods
-- https://www.learnpython.org/en/String_Formatting
-- https://www.learnpython.org/en/Basic_String_Operations
-- https://automatetheboringstuff.com/chapter6/
+- http://bit.ly/31Z9b8a
+- http://bit.ly/33UK2xu
+- http://bit.ly/2L8bQpi
+- http://bit.ly/30FTna4
+- http://bit.ly/2Zn083w
 
-#### Try/Catch - (skipped):
-- https://www.learnpython.org/en/Exception_Handling
-- https://docs.python.org/3/tutorial/errors.html
+#### Try/Catch:
+- http://bit.ly/31YbGHV
+- http://bit.ly/2ZngR2D
 
 #### Extra Exercises:
-- https://developers.google.com/edu/python/exercises/basic
+- http://bit.ly/2Zn0cQO
