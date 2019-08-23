@@ -15,11 +15,11 @@
 #### Operations:
 - http://bit.ly/CCPythonOp1
 
-#### input/output (you can ignore confirm):
+#### input/output:
 - http://bit.ly/CCPythonInOut1
 - http://bit.ly/CCPythonInOut2
 
-#### if/else statements (conditional):
+#### if/else statements:
 - http://bit.ly/CCPythonIf1
 - http://bit.ly/CCPythonIf2
 - http://bit.ly/CCPythonIf3
