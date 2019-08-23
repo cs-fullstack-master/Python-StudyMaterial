@@ -1,33 +1,31 @@
 # Python-StudyMaterial
 
 #### variables:
-- https://pythonprinciples.com/lessons/Strings/
-- https://pythonprinciples.com/lessons/Variables/
-- https://overiq.com/python-101/data-types-and-variables-in-python/
-- https://developers.google.com/edu/python/introduction#variable-names
-- https://www.learnpython.org/en/Variables_and_Types
-- https://docs.python.org/3/tutorial/introduction.html#numbers
-- https://docs.python.org/3/tutorial/introduction.html#strings
+- http://bit.ly/CCPythonVar1
+- http://bit.ly/CCPythonVar2
+- http://bit.ly/CCPythonVar4
+- http://bit.ly/CCPythonVar6
+- http://bit.ly/CCPythonVar7
 
 #### data types:
-- https://overiq.com/python-101/data-types-and-variables-in-python/
-- https://www.learnpython.org/en/Variables_and_Types
-- https://automatetheboringstuff.com/chapter1/#calibre_link-1988
+- http://bit.ly/CCPythonDataType1
+- http://bit.ly/CCPythonDataType2
+- http://bit.ly/CCPythonDataType3
 
 #### Operations:
-- https://www.learnpython.org/en/Basic_Operators
+- http://bit.ly/CCPythonOp1
 
 #### input/output (you can ignore confirm):
-- https://automatetheboringstuff.com/chapter1/#calibre_link-1976
-- https://automatetheboringstuff.com/chapter1/#calibre_link-1979
+- http://bit.ly/CCPythonInOut1
+- http://bit.ly/CCPythonInOut2
 
 #### if/else statements (conditional):
-- https://overiq.com/python-101/if-else-statements-in-python/
-- https://developers.google.com/edu/python/strings#if-statement
-- https://www.learnpython.org/en/Conditions
-- https://automatetheboringstuff.com/chapter2/#calibre_link-2053
-- https://docs.python.org/3/tutorial/controlflow.html#if-statements
-- https://docs.python.org/3/tutorial/controlflow.html#for-statements
+- http://bit.ly/CCPythonIf1
+- http://bit.ly/CCPythonIf2
+- http://bit.ly/CCPythonIf3
+- http://bit.ly/CCPythonIf4
+- http://bit.ly/CCPythonIf5
+- http://bit.ly/CCPythonIf6
 
 #### For and While Loops:
 - https://overiq.com/python-101/loops-in-python/
